@@ -1,0 +1,4 @@
+panel
+pyautogen
+openai
+supabase
